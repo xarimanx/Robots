@@ -34,7 +34,6 @@ COORD_MOVES = [[0, 1], [1, 0], [0, -1], [-1, 0]]
       puts "step - #{@counter} robot's location x = #{@x} and y = #{@y} turn to #{DIRECTIONS[@d]} "
       
     end
-    puts "step - #{@counter+1} robot's location x = #{@x} and y = #{@y} turn to #{DIRECTIONS[@d]}"
     puts "FINISH"
   end
   
