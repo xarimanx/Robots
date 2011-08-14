@@ -1,0 +1,83 @@
+nasa2.rb:36:in `[]': no implicit conversion from nil to integer (TypeError)
+	from nasa2.rb:36:in `step'
+	from nasa2.rb:30:in `run'
+	from nasa2.rb:29:in `each'
+	from nasa2.rb:29:in `run'
+	from nasa2.rb:61
+nasa2.rb:31:in `run': undefined method `+' for nil:NilClass (NoMethodError)
+	from nasa2.rb:29:in `each'
+	from nasa2.rb:29:in `run'
+	from nasa2.rb:63
+nasa2.rb:31:in `run': undefined method `+' for nil:NilClass (NoMethodError)
+	from nasa2.rb:29:in `each'
+	from nasa2.rb:29:in `run'
+	from nasa2.rb:63
+nasa2.rb:32:in `run': undefined local variable or method `counter' for #<Robot:0x3902778> (NameError)
+	from nasa2.rb:29:in `each'
+	from nasa2.rb:29:in `run'
+	from nasa2.rb:63
+nasa2.rb:31:in `run': undefined method `puns' for #<Robot:0x36029d0> (NoMethodError)
+	from nasa2.rb:29:in `each'
+	from nasa2.rb:29:in `run'
+	from nasa2.rb:62
+nasa2.rb:31:in `run': undefined method `+' for nil:NilClass (NoMethodError)
+	from nasa2.rb:29:in `each'
+	from nasa2.rb:29:in `run'
+	from nasa2.rb:63
+nasa2.rb:31:in `run': undefined method `+' for nil:NilClass (NoMethodError)
+	from nasa2.rb:29:in `each'
+	from nasa2.rb:29:in `run'
+	from nasa2.rb:63
+nasa2.rb:31:in `run': undefined local variable or method `counter' for #<Robot:0x35228b8> (NameError)
+	from nasa2.rb:29:in `each'
+	from nasa2.rb:29:in `run'
+	from nasa2.rb:63
+nasa2.rb:31:in `run': undefined local variable or method `counter' for #<Robot:0x35228b8> (NameError)
+	from nasa2.rb:29:in `each'
+	from nasa2.rb:29:in `run'
+	from nasa2.rb:63
+nasa2.rb:31:in `run': undefined local variable or method `counter' for #<Robot:0x3922980> (NameError)
+	from nasa2.rb:29:in `each'
+	from nasa2.rb:29:in `run'
+	from nasa2.rb:63
+nasa2.rb:40:in `step': undefined local variable or method `counter' for #<Robot:0x3a528c8> (NameError)
+	from nasa2.rb:30:in `run'
+	from nasa2.rb:29:in `each'
+	from nasa2.rb:29:in `run'
+	from nasa2.rb:64
+nasa2.rb:40:in `step': undefined local variable or method `counter' for #<Robot:0x35f2980> (NameError)
+	from nasa2.rb:30:in `run'
+	from nasa2.rb:29:in `each'
+	from nasa2.rb:29:in `run'
+	from nasa2.rb:64
+nasa2.rb:41:in `step': undefined method `+' for nil:NilClass (NoMethodError)
+	from nasa2.rb:30:in `run'
+	from nasa2.rb:29:in `each'
+	from nasa2.rb:29:in `run'
+	from nasa2.rb:64
+nasa2.rb:41:in `step': undefined method `+' for nil:NilClass (NoMethodError)
+	from nasa2.rb:30:in `run'
+	from nasa2.rb:29:in `each'
+	from nasa2.rb:29:in `run'
+	from nasa2.rb:64
+nasa2.rb:58:in `readline': Permission denied - . (Errno::EACCES)
+	from nasa2.rb:58
+nasa2.rb:58:in `readline': Permission denied - ./ (Errno::EACCES)
+	from nasa2.rb:58
+nasa2.rb:58: uninitialized constant ARGS (NameError)
+nasa2.rb:66:in `eof?': closed stream (IOError)
+	from nasa2.rb:66
+nasa2.rb:66:in `eof?': closed stream (IOError)
+	from nasa2.rb:66
+nasa2.rb:66:in `eof?': closed stream (IOError)
+	from nasa2.rb:66
+nasa2.rb:66:in `eof?': closed stream (IOError)
+	from nasa2.rb:66
+nasa2.rb:66:in `eof?': closed stream (IOError)
+	from nasa2.rb:66
+nasa2.rb:71:in `eof?': closed stream (IOError)
+	from nasa2.rb:71
+nasa2.rb:71:in `eof?': closed stream (IOError)
+	from nasa2.rb:71
+nasa2.rb:78:in `eof?': closed stream (IOError)
+	from nasa2.rb:78

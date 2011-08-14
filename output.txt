@@ -1,0 +1,42 @@
+
+File - input.txt
+START
+step - 0 robot's location x = 0 and y = 0 turn to N
+step - 1 robot's location x = 0 and y = 1 turn to N 
+step - 2 robot's location x = 0 and y = 2 turn to N 
+step - 3 robot's location x = 0 and y = 2 turn to W 
+step - 4 robot's location x = 0 and y = 2 turn to W 
+step - 5 robot's location x = 0 and y = 2 turn to N 
+step - 6 robot's location x = 0 and y = 3 turn to N 
+step - 7 robot's location x = 0 and y = 4 turn to N 
+step - 8 robot's location x = 0 and y = 4 turn to N
+FINISH
+
+File - input2.txt
+START
+step - 0 robot's location x = 3 and y = 3 turn to S
+step - 1 robot's location x = 3 and y = 2 turn to S 
+step - 2 robot's location x = 3 and y = 1 turn to S 
+step - 3 robot's location x = 3 and y = 1 turn to E 
+step - 4 robot's location x = 4 and y = 1 turn to E 
+step - 5 robot's location x = 4 and y = 1 turn to S 
+step - 6 robot's location x = 4 and y = 0 turn to S 
+step - 7 robot's location x = 4 and y = 0 turn to S 
+step - 8 robot's location x = 4 and y = 0 turn to E 
+step - 9 robot's location x = 4 and y = 0 turn to N 
+step - 10 robot's location x = 4 and y = 1 turn to N 
+step - 11 robot's location x = 4 and y = 2 turn to N 
+step - 12 robot's location x = 4 and y = 3 turn to N 
+step - 13 robot's location x = 4 and y = 3 turn to E 
+step - 14 robot's location x = 5 and y = 3 turn to E 
+step - 15 robot's location x = 5 and y = 3 turn to N 
+step - 16 robot's location x = 5 and y = 3 turn to W 
+step - 17 robot's location x = 4 and y = 3 turn to W 
+step - 18 robot's location x = 3 and y = 3 turn to W 
+step - 19 robot's location x = 3 and y = 3 turn to N 
+step - 20 robot's location x = 3 and y = 3 turn to E 
+step - 21 robot's location x = 3 and y = 3 turn to S 
+step - 22 robot's location x = 3 and y = 2 turn to S 
+step - 23 robot's location x = 3 and y = 1 turn to S 
+step - 24 robot's location x = 3 and y = 1 turn to S
+FINISH
